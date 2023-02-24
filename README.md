@@ -42,3 +42,4 @@ Use React Class components	                                                     
 ```
 
 ## Deploy on Vercel
+https://metaversus-chinhnd7.vercel.app/
